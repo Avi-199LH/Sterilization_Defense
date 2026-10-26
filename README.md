@@ -12,7 +12,7 @@
 ![Platform](https://img.shields.io/badge/works_on-phone_%26_PC-purple)
 ![Version](https://img.shields.io/badge/version-1.0.0-informational)
 
-<img src="docs/screenshots/start-pc.png" alt="Start screen" width="85%">
+<img src="start-pc.png" alt="Start screen" width="85%">
 
 </div>
 
@@ -40,9 +40,9 @@ It is a single `index.html` file with no libraries, no build step and no login. 
 
 | PC gameplay | Phone gameplay |
 |---|---|
-| <img src="docs/screenshots/gameplay-pc.png" width="480"> | <img src="docs/screenshots/gameplay-phone.png" width="220"> |
+| <img src="gameplay-pc.png" width="480"> | <img src="gameplay-phone.png" width="220"> |
 
-<img src="docs/screenshots/themes.png" alt="Themes: Mario, Covid, Space and Ocean" width="100%">
+<img src="themes.png" alt="Themes: Mario, Covid, Space and Ocean" width="100%">
 
 ## 🎮 How to play
 
@@ -117,9 +117,7 @@ Sterilization_Defense/
 ├── .gitignore
 ├── .github/
 │   └── ISSUE_TEMPLATE/ # bug and idea templates
-└── docs/
-    ├── social-preview.png
-    └── screenshots/
+└── *.png               # screenshots used in this README
 ```
 
 ## 🛠️ Built with
