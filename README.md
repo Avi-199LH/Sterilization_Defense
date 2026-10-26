@@ -133,7 +133,7 @@ Plain HTML5, CSS and JavaScript. The playfield is drawn on a `<canvas>`, sounds 
 - Resistance genes (for example in MRSA) make antibiotics fail
 - Biofilms and prions resist ordinary control methods
 
-## 🗺️ Roadmap
+##  Roadmap
 
 - [ ] More levels and maps
 - [ ] Online leaderboard
