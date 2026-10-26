@@ -1,10 +1,10 @@
 <div align="center">
 
-# 🛡️ Sterilization_Defense
+# 🛡️ Sterilization Defense
 
 **A tower-defense game about microbial control. Pick the right sterilization method for every microbe and keep the lab safe.**
 
-[![Play](https://img.shields.io/badge/▶_Play_now-live_demo-2ea44f?style=for-the-badge)](https://Avi-199LH.github.io/sterilization_defense/)
+[![Play](https://img.shields.io/badge/▶_Play_now-live_demo-2ea44f?style=for-the-badge)](https://avi-199lh.github.io/Sterilization_Defense/)
 
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![HTML5](https://img.shields.io/badge/HTML5-JavaScript-orange)
@@ -92,8 +92,8 @@ New microbes arrive without hints. A short lab report after each wave explains w
 No install needed. Download or clone the repository and open `index.html` in a browser.
 
 ```bash
-git clone https://github.com/Avi-199LH/sterilization_defense.git
-cd sterilization_defense
+git clone https://github.com/Avi-199LH/Sterilization_Defense.git
+cd Sterilization_Defense
 # then double-click index.html, or serve it:
 python3 -m http.server 8000   # open http://localhost:8000
 ```
@@ -103,12 +103,12 @@ python3 -m http.server 8000   # open http://localhost:8000
 1. Push this repository to GitHub (public).
 2. Open **Settings → Pages**.
 3. Under **Build and deployment**, choose **Deploy from a branch**, branch **main**, folder **/ (root)**, then **Save**.
-4. After a minute or two your game is live at `https://Avi-199LH.github.io/sterilization_defense/`.
+4. After a minute or two your game is live at `https://avi-199lh.github.io/Sterilization_Defense/`.
 
 ## 📁 Project structure
 
 ```
-sterilization_defense/
+Sterilization_Defense/
 ├── index.html          # the whole game (HTML + CSS + JavaScript)
 ├── README.md
 ├── LICENSE
@@ -153,6 +153,6 @@ Released under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-**Avi-199LH** · [@Avi-199LH](https://github.com/Avi-199LH)
+**Avinash Pandey** · [@Avi-199LH](https://github.com/Avi-199LH)
 
 If you enjoyed the game, please give the repository a ⭐
