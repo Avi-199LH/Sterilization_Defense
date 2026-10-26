@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ Sterilization Defense
+#  Sterilization Defense
 
 **A tower-defense game about microbial control. Pick the right sterilization method for every microbe and keep the lab safe.**
 
@@ -18,13 +18,13 @@
 
 ---
 
-## 📖 About
+##  About
 
 Microbes march through tunnels towards your lab. Every defense works on some microbes and fails on others, so you learn real microbiology by playing: why antibiotics don't touch viruses, why endospores survive almost everything except an autoclave, and why filters don't stop viruses.
 
 It is a single `index.html` file with no libraries, no build step and no login. It runs in any modern browser on phones and computers.
 
-## ✨ Features
+##  Features
 
 - **3 game modes** with up to **3 tunnels** that open as waves progress
 - **Automatic waves** with a prep timer and a live wave timer
@@ -36,7 +36,7 @@ It is a single `index.html` file with no libraries, no build step and no login. 
 - Upgrades, kill combos, perfect-wave bonuses and a local best score
 - Remembers your settings between visits
 
-## 🖼️ Screenshots
+##  Screenshots
 
 | PC gameplay | Phone gameplay |
 |---|---|
@@ -44,7 +44,7 @@ It is a single `index.html` file with no libraries, no build step and no login. 
 
 <img src="themes.png" alt="Themes: Mario, Covid, Space and Ocean" width="100%">
 
-## 🎮 How to play
+##  How to play
 
 1. Enter your name, then choose a **mode**, **difficulty**, **screen** and **theme**.
 2. Tap a defense, then tap a free tile beside the path to build it.
@@ -56,7 +56,7 @@ It is a single `index.html` file with no libraries, no build step and no login. 
 
 **PC keys:** `1`-`6` choose a defense · `Space` start next wave · `P` pause · `M` mute
 
-## 🕹️ Game modes
+##  Game modes
 
 | Mode | Waves | Tunnels | Style |
 |---|---|---|---|
@@ -70,7 +70,7 @@ It is a single `index.html` file with no libraries, no build step and no login. 
 | Normal | 10 | 130 |
 | Hard | 7 | 110 |
 
-## 🧪 Defenses
+##  Defenses
 
 | Defense | Cost | Works on | Weak against |
 |---|---|---|---|
@@ -81,13 +81,13 @@ It is a single `index.html` file with no libraries, no build step and no login. 
 | Pasteurizer | 70 | Bacteria, viruses, fungi | Spores |
 | Filter (slows enemies) | 55 | Traps bacteria, spores, fungi, cysts | Viruses pass through |
 
-## 🦠 Microbes
+##  Microbes
 
 Bacteria · Virus · Fungus · Endospore · MRSA (antibiotic-resistant) · Protozoan cyst · Biofilm · Prion (boss)
 
 New microbes arrive without hints. A short lab report after each wave explains what you just faced.
 
-## 🚀 Run it locally
+##  Run it locally
 
 No install needed. Download or clone the repository and open `index.html` in a browser.
 
@@ -98,14 +98,14 @@ cd Sterilization_Defense
 python3 -m http.server 8000   # open http://localhost:8000
 ```
 
-## 🌐 Deploy on GitHub Pages
+##  Deploy on GitHub Pages
 
 1. Push this repository to GitHub (public).
 2. Open **Settings → Pages**.
 3. Under **Build and deployment**, choose **Deploy from a branch**, branch **main**, folder **/ (root)**, then **Save**.
 4. After a minute or two your game is live at `https://avi-199lh.github.io/Sterilization_Defense/`.
 
-## 📁 Project structure
+##  Project structure
 
 ```
 Sterilization_Defense/
@@ -120,11 +120,11 @@ Sterilization_Defense/
 └── *.png               # screenshots used in this README
 ```
 
-## 🛠️ Built with
+##  Built with
 
 Plain HTML5, CSS and JavaScript. The playfield is drawn on a `<canvas>`, sounds use the Web Audio API, and settings are saved with `localStorage`. The Inter font is loaded from Google Fonts and falls back to the system font when offline.
 
-## 🎓 What it teaches
+##  What it teaches
 
 - Autoclaving (121 °C, 15 psi) is the dependable way to kill endospores
 - Antibiotics act on bacteria only
@@ -141,16 +141,16 @@ Plain HTML5, CSS and JavaScript. The playfield is drawn on a `<canvas>`, sounds 
 - [ ] Quiz after each wave
 - [ ] Translations
 
-## 🤝 Contributing
+##  Contributing
 
 Ideas and fixes are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md) first.
 
-## 📄 License
+##  License
 
 Released under the [MIT License](LICENSE).
 
-## 👤 Author
+##  Author
 
 **Avinash Pandey** · [@Avi-199LH](https://github.com/Avi-199LH)
 
-If you enjoyed the game, please give the repository a ⭐
+If you enjoyed the game, please give the repository a 
